@@ -4,6 +4,15 @@ Goal is to rename the pictures odered in rows and collumns
 
 Kelechi: suggested Deadline: 1st. Week of August (would be around August, 6th)
 
+Meeting with Hannah
+    Propsal 1: Rename Pictures from Flight
+        - Rename Pictures from sequence number to combination of row and column naming
+        - Resample pictures to smaler resoultion to save spacd
+        - Create visual preview
+        - Transform or reproject to different coordinate system
+
+    Proposal 2: Workflow for processing Drone data
+
 Volker: Description of proposed funktions -
     a) Renaming of sequentially named pictures from foto flight (Drone, Plane) -
           - The most northern row starts with 01
