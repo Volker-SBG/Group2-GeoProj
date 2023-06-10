@@ -10,7 +10,6 @@ Meeting with Hannah
         - Resample pictures to smaler resoultion to save spacd
         - Create visual preview
         - Transform or reproject to different coordinate system
-
     Proposal 2: Workflow for processing Drone data
 
 Volker: Description of proposed funktions -
